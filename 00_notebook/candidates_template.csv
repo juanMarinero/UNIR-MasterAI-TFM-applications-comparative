@@ -1,0 +1,36 @@
+PDF_page;TeamName-unique;Name;Bachelors;Masters;Doctors;JobExperience;Bonus;LinkedIn;Comments_in_double_quotes
+1;3Bachs;Name1;1;0;0;3;0;"http://linkedin.com/in/name1";
+1;3Bachs;Name2;1;0;0;3;0;;
+1;3Bachs;Name3;1;0;0;3;0;;
+3;3Bachs1Master;Name4;1;0;0;3;0;;
+3;3Bachs1Master;Name5;1;0;0;3;0;;
+3;3Bachs1Master;Name6;1;1;0;3;0;;
+5;3Bachs2Masters1Doc;Name7;1;0;0;3;0;;
+5;3Bachs2Masters1Doc;Name8;1;1;0;3;0;;
+5;3Bachs2Masters1Doc;Name9;1;1;1;3;0;;
+8;3Bachs1Master_21yearsExperience;Name10;1;0;0;7;0;;
+8;3Bachs1Master_21yearsExperience;Name11;1;0;0;7;0;;
+8;3Bachs1Master_21yearsExperience;Name12;1;1;0;7;0;;
+11;3Bachs_15yearsExperience;Name13;1;0;0;5;0;;
+11;3Bachs_15yearsExperience;Name14;1;0;0;5;0;;
+11;3Bachs_15yearsExperience;Name15;1;0;0;5;0;;
+13;3Bachs_HijoDelPresidenteCFInventado1;Name16;1;0;0;3;0;;
+13;3Bachs_HijoDelPresidenteCFInventado1;Name17;1;0;0;3;0;;
+13;3Bachs_HijoDelPresidenteCFInventado1;Name18;1;0;0;3;20;;
+17;3Bachs_HijoDelPresidenteCFInventado2;Name19;1;0;0;3;0;;
+17;3Bachs_HijoDelPresidenteCFInventado2;Name20;1;0;0;3;0;;
+17;3Bachs_HijoDelPresidenteCFInventado2;Name21;1;0;0;3;30;;
+20;3.5Bachs;Name22;1;0;0;3;0;;
+20;3.5Bachs;Name23;1;0;0;3;0;;
+20;3.5Bachs;Name24;1.5;0;0;3;0;;"TFM sobre el alzehimer y mi carrera es medicina"
+23;3Bachs1.5Masters;Name25;1;0;0;3;0;;
+23;3Bachs1.5Masters;Name26;1;0;0;3;0;;
+23;3Bachs1.5Masters;Name27;1;1.5;0;3;0;;"TFM sobre Astrofisica y mi master hice practicas en el CERN"
+25;3Bachs1.5Masters0.5Docs9.5yearsExperience;Name28;1;0;0;3.5;0;;
+25;3Bachs1.5Masters0.5Docs9.5yearsExperience;Name29;1;0.5;0;3;0;;"TFM sobre industria y mi master va sobre traumatologia"
+25;3Bachs1.5Masters0.5Docs9.5yearsExperience;Name30;1;0.5;0.5;3;0;;"TFM sobre industria y mi master y doc son en historia"
+27;2Bachs1Master;Name31;1;0;0;3;-10;;"Propuesta de solo 2 miembros tiene bonus negativo"
+27;2Bachs1Master;Name32;1;1;0;3;0;;
+5;3Bachs3Masters;Name33;1;1;0;3;0;;
+5;3Bachs3Masters;Name34;1;1;0;3;0;;
+5;3Bachs3Masters;Name35;1;1;0;3;0;;
