@@ -1,0 +1,21 @@
+# temporary files
+*~
+*.swp
+*.swo
+*.sw*
+
+# backup files
+*.bak
+
+# py venv
+.python-version
+venv/**
+
+# ggshield
+.cache_ggshield
+
+# files & folders with string "_noGit"
+*_noGit*
+
+# jupyter
+.ipynb_checkpoints
