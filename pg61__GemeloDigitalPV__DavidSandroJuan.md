@@ -5,8 +5,9 @@ Miembros:
 - David Gamo
   - Formación académica:
     - Ingeniero en Telecomunicaciones (politécnica de Madrid)
-    - Máster en paralelo al de IA
-  - Más de 2 años de experiencia laboral en sector de la ingeniería
+    - Máster en Consultoría de Negocio (ICADE, paralelo al de IA)
+  - Más de 2 años de experiencia laboral en sector de Consultoría (Data Governance, Automatización de procesos)
+  - Linkedin: www.linkedin.com/in/david-gamo-gomez-37b732250
 - Juan Marinero
   - Estudios: 
     - Ingeniero Eléctrico (UVa)
